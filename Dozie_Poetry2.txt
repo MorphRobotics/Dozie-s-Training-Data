@@ -1,0 +1,740 @@
+Continuum Robot Monologue: Sensors as Alchemy
+
+Something massive is happening at the microscale.
+Micromanipulation of tissues promises pathways to curing myriad bodily abnormalities.
+Yet the question persists: why is magnetic actuation uniquely suited to this domain?
+
+Magnetism stands as a fundamental force of nature, one that demands no external batteries or power systems when permanent magnets are employed.
+An untethered, wireless microrobot paired with an autonomous actuation source becomes essential when modeling systems with elegance.
+Field planning reduces to a function of two Jacobian workspaces, dramatically simplifying the computational burden.
+
+This simplicity welcomes a richer complexity when electronics are embedded within the design of the untethered microrobot itself.
+Consider a wireless passive LC sensor that broadcasts its resonance frequency for signal processing.
+Such a device introduces additional layers of modeling, fabrication, and characterization.
+
+The central question emerges: how does this research address the grander vision?
+In the grander vision, soft carbon-based systems merge with hard silicon-based systems.
+Learning to embed computerized functionality within soft systems resembles breathing life into the inanimate — a sort of modern alchemy.
+
+Vector network analyzers and impedance analyzers sense LC circuit resonance, processing signals to extract meaningful parameters.
+Once extracted and calibrated, these parameters can be visualized in real time through straightforward programming.
+Imagine a magnetic continuum robot navigating the lungs: force or vibration data could guide its subsequent movements.
+The continuum robot and robotic manipulator would then become a magnetic autonomous navigation system through their sensing apparatus.
+Previously limited to reactive behavior, the robot can now process information and be proactive.
+
+This alchemy of animating the inanimate has long captivated me.
+I now pursue this fascination through embedded sensors in magnetic polymers and magnetic navigation systems.
+Sensors embedded in polymers could revolutionize biosensing, pollution mitigation, and thermal management.
+
+When inert rubbers are infused with magnetic nanoparticles, they acquire a primitive agency.
+When subsequently embedded with sensors, they gain a voice — the capacity to communicate their subjective experience of the environment.
+This is not panpsychism; this is engineering reality.
+Sensors are the alchemical key to material transmutation.
+
+It is for this reason that the robotic revolution will prove far more transformative than our current AI revolution.
+There is no rational basis for performing tasks that another accessible entity executes more effectively.
+This raises a critical question: when should we cease mining our biological minds as resources and begin leveraging artificial minds instead?
+This question grows urgent as habits crystallize rapidly and underutilized faculties atrophy.
+Surgeons who rely on robotic methods without maintaining manual practice will eventually lose the ability to operate without technological assistance.
+Human thriving has brought about the transcendence of the need to even thrive in the first place, and it leaves us floating in a liminal space.
+
+Chiaroscuro
+By Dozie Ubosi
+
+Horridas nostrae mentis purga tenebras, accende lumin sensibus!
+(Purge the horrible darkness of our mind, light a light for our senses!)
+
+A poem called “In the Shadow of You”
+
+You shine like a star
+Effortlessly so
+In a life lived for love
+We can’t say that everything goes
+Unable to hide the discomfort
+Of being sad and alone
+Leave all wonder behind
+And take a better approach
+
+Greater things depend on lesser things, and these on lesser things still.
+Walking into the abandoned monastery, I see a manuscript that seems awfully old.
+It belonged to an alchemist who used to be a physicist.
+Academic aspirations turned into a life of hermeticism and chasing the occult.
+The manuscript details how he can bind human souls.
+
+Geometrical truth lies in the mandala.
+I sink into a trance.
+The limitations of language become clear — I finally understand Wittgenstein.
+Ancient secrets become exposed to me through these images.
+I begin to see images of a girl, a succubi.
+It’s a familiar face.
+
+Things are either concrete or abstract.
+I lived an entire lifetime in the hypnotic trance.
+With the succubi as my partner, we lived like hermits in Clarens, Switzerland.
+The sounds of Gymnopedie echo through my mind as I fall deeper in love.
+My unconscious mind is now at the forefront.
+
+I awake from the trance seeing real life with new eyes.
+Images of another lifetime haunt me.
+I try to find the mandala to return, but it is gone.
+Gymnopedie is replaced with Schoenberg’s atonality and screeching violins.
+I still feel the love.
+
+I left the monastery.
+I live every second in fantasy.
+There’s a difference between imagination and fantasy.
+Ancient symbols have become contemporary Dionysian images.
+If I can live a lifetime in my brain, it must be proof of the supernatural.
+My psychiatrist said there are two reasons people do drugs: chasing pleasure or running from pain.
+
+I need to find a way to expose myself to the animal impulses of my unconscious.
+I dream I am a werewolf running through a field.
+I feel the region of my brain responsible for peace suddenly unlock.
+You glide faster on all fours.
+It is ineffable.
+
+The past, present, and future exist simultaneously.
+Sometimes when I think of my life, it feels like intangible memory.
+The triviality is striking.
+
+In nature opposites seek one another.
+Jung says although man and woman unite, they remain irreconcilable opposites.
+I still believe being in love is the best elation attainable.
+Maybe when you love enough, you can see past the hostility.
+
+Apollo and Dionysus represent two sides of a coin, like Hermes and Aphrodite — like you and I.
+The visions haven’t left me. They are just drowning among my other experiences.
+
+Never Trust Anyone Who Listens to Nocturnes in the Morning
+By Dozie Ubosi
+
+The nocturnes were my morning and night and this turned me nocturnal.
+They are meant for the night, so listening in the morning is unnatural — but I did anyway.
+The melodies were relaxing. I was obsessed with nighttime.
+After months, I couldn’t sleep.
+Everything sweet has its hidden bitter side.
+Now I only listen to nocturnes at night.
+
+I Think It’s Because I Love You
+
+It seems like I am the one making the decisions
+But I am reacting to everything you do
+I think it is because I love you
+
+How can you love me when you do not know anything about me
+I do not know
+It cannot be explained
+It is quantum physics or something
+
+Where are you
+I will pick you up and explain everything
+Nowhere near you
+I am sure about that
+
+Einstein is not a genius
+He is a violinist
+
+Tesla’s a Freak
+
+An unhealthy obsession with completion is my problem
+If I start something
+I have to finish it
+It helped me escape the perils of nature
+
+Nikola Tesla finished reading all of Voltaire
+Even I am not that obsessed
+My obsession with completion led me to the greatest joy of my life
+I will never be afraid to go too far again
+
+Have You Heard of Voltaire
+
+Taylor Swift is the Einstein the Schrodinger the Hilbert and the Tesla of our day
+Wait so Tesla and Taylor Swif
+I can explain it to you
+Do not worry
+
+Where are you
+I will pick you up
+Nowhere near you
+I am sure about that
+
+A physics professor walks out of her office
+Holds a bag of chocolates open in front of me
+There are different colours in there
+I close my eyes and pick one
+It is purple
+My first psychedelic
+
+Trust Me I Can Explain It To You
+
+I always swear I can prove the theorems I blabber
+But it only makes sense in my head
+
+Pythagorean theorem seems easy to prove
+But the proof is not so straightforward
+
+Intuition beats rigour
+Rigour validates the idea
+
+Trust me
+I can explain it to you
+
+A Quote About the Devil Making Surfaces
+
+On the first day of class I learned my teacher was a python
+He said I am a Bayesian
+And now time for something completely new as they say
+
+That is a terrible attempt at a Monty Python joke
+It is now time for something completely different
+
+He held in his laugh
+I asked who is your favourite member
+He said Michael Palin
+Mine is Eric Idle
+
+Have you seen the architect sketch
+No
+At that moment I knew he was a freemason
+
+All a Boy Wants Is a Working Machine
+
+I never had a working machine until last year
+I took a leadership role to build one
+Being a leader is hard and uncomfortable
+It is rewarding in the end
+I built a working machine
+It even had a fail safe
+
+Professor Hypnosis
+
+If you think of your brain as a signal processor
+Schizophrenia is a glitch in the computer
+
+Sir I have looked forward to this signal processing class since first year
+I am basically telling the professor I am a skitzo
+He said avoid aliasing
+
+Dark Academia
+
+I am a dead poet
+Stomping on table tops
+Captain my captain
+
+I look at a Kurt Schwitters painting
+I am scared to death
+I hate decadent art
+That is why they censored Baudelaire
+
+Misogyny
+
+If Picasso was a known misogynist
+And Stravinsky wrote a rite about a virgin sacrificed to the gods
+Do I pay the price for the misogyny of the past
+
+The trailblazers were misogynists
+What separates my genius from theirs
+
+Nocturnes
+
+You are the last person I think about before I sleep
+I imagined our whole lives together
+But here I am
+A lifetime away from you
+
+My hands are buried in the soil
+Inside my soul
+My love wears forbidden colours
+
+Toronto Symphony Orchestra in the Winter
+
+I have rarely seen something so beautiful
+You are the exception of course
+
+Stochastic events lined up like a miracle
+I met the love of my life through random paths I somehow controlled
+
+Slicing time is a science
+It is an art like anything else
+
+Solo Hikes
+
+I had my first daydream about you on a trail
+It happened randomly
+One cold morning in November I woke to catch the sunrise
+The thought of you kept me warm
+As though you were there
+
+Handel’s Messiah or Mozart’s Requiem
+
+You might go to Messiah
+I got you tickets for the Requiem if you change your mind
+
+Count your dollars on the train
+It will be a party
+I cannot accept a penny for my thoughts
+My thoughts are worth millions
+
+Arrested for Chasing the Green Light
+
+I left my house early
+Stopped for scones
+Hiked all day
+Sleep deprived
+Hallucinating
+
+I offered a taxi driver scones for a ride to the airport
+He asked for cash
+
+I found a building with a green light
+Green is my favourite colour
+I trespassed
+Signed in under a new name
+The cops came
+
+They took me to a hospital
+One of them called me brilliant
+
+How Do You Think Legends Are Made
+
+I choose to maximize my youth
+Belief does not make things exist
+
+Why shift focus to the supernatural
+As though this life is not everything I have
+
+Joys and dangers follow this way of thought
+There is risk in everything
+Even thieves take risks
+I think I found my kung fu
+
+We’re Minimalists Aren’t We
+
+Watching reruns
+Wearing old clothes
+Little furniture
+We are minimalists
+Aren’t we
+
+Can We At Least Embrace Surrealism
+
+The pursuit of pleasure is paramount
+Because pleasure feels good
+Find something you love and push
+Push the door open and discover
+Through discovery you create
+
+Your Texts Have Me Stressing
+
+Let us do a rendezvous before the rendezvous
+I will pick you up in sweater and button up drip
+It makes little sense on the surface
+It is abstract for me
+
+Words can carry deeper meaning
+That is why they censored Baudelaire
+
+Frogs Are Friendly Neutral
+
+I saw a repulsive frog on my hike
+It made me think of you
+It cannot be explained
+
+It takes a genius to understand that it cannot be explained
+It must be felt
+
+I have to do it when and how I feel it
+Candles burn for only so long
+I do not choose when my fire dwindles
+
+Trace the Sinusoids
+
+Trace the sinusoids
+You will find no beginning
+You will find no end
+
+You will find a fragment of a vast fractal
+Patterns are not illusions
+Determinism is law
+Stochasticity is the limit of perception
+
+Nowhere Near You I’m Sure About That
+
+I listen to certain songs to feel the feeling of falling in love again
+They are the closest I may get to the warmth of love
+
+Songs like
+Erik Satie Gymnopedie
+Sergei Rachmaninoff Piano Concerto in minor Adagio sostenuto
+Claude Debussy Clair de Lune
+They bring me near to that warmth
+
+Dreams and Reality as Spaces
+
+Have you had a dream that felt senseless
+Meaning out of reach does not mean no meaning
+
+I propose that dreams have a one to one linear relation with reality
+Represented in a denser randomized topological space
+
+Reality as a Hilbert Space
+Treat reality as a structured space
+Events and perceptions as states
+Physical experiences memories sensory inputs cognitive processes
+
+Dreams as a Homeomorphic Space
+Dreams reside in a space homeomorphic to reality
+They are transformations of real experiences
+Distorted projections with an underlying connection
+
+Infinitesimal Generators as Cognitive Processes
+An infinitesimal generator produces transformations between spaces
+Memory imagination and subconscious association evolve states from reality to dreams
+Dreams are modified reflections of reality
+
+Homeomorphism and Continuity
+Dreams and reality are topologically similar
+Continuity of the transformation implies systematic relation
+Emotional weighting recombination of memories symbolic transformations
+
+Conclusion
+Dreams are transformations of real experience through subconscious processes
+Governed by infinitesimal changes in cognitive evolution
+Linked to reality through a homeomorphic relation
+They preserve structure while altering form into denser symbolic topology
+
+Attention and Relay Networks
+
+I sit in my dark room as the cold creeps in
+Information and meaning are not the same
+More information can yield less meaning
+
+Attention yields meaning
+But attention collapses when information is astronomical
+
+I explore mental states connected by context through relay networks
+When people speak
+They phase align through shared contexts
+Model minds as signals through a channel that preserves and filters recurrences
+Meaning arises from how coherences interfere in a shared field
+
+In a saturated world
+Meaning emerges from the scarce relay of attention
+Minds are oscillators in a larger field
+When profiles meet through a relay
+Their interference cannot be decomposed into personal parts
+The latent trace is joint and inseparable
+The world clusters us into resonance domains
+
+Extend from pairs to many agents
+Collective fields arise from superposed oscillators
+Cross spectral matrices coherence graphs and latent inseparability reveal clustering
+Joint traces are collective
+
+Coherence is a property of fields not individuals
+Interference terms and cross spectral densities are irreducibly joint
+Interactive systems are relays that filter amplify and suppress
+They shape patterns that decide which communities form and which voices fade
+
+Attention is redistributed by these systems
+They become fields of coherence
+Design determines stability fairness and balance between synchrony and fragmentation
+Echo chambers lock groups into rigid synchrony
+Better relays open new domains of resonance
+The direction depends on how we tune the relays
+
+On Vampires Religion and the Will to Live Forever
+
+Living forever is an enticing promise
+Vampires hold their place in culture because one lifetime feels small
+
+Eternal life often mirrors earthly life
+The mind cannot picture beyond the known
+The idea persists as an extension of earth
+
+The Faustian bargain and wagers of faith frame existence as a payoff game
+Should an existence be based on an economic game
+Desire often hides as greed
+
+Religion can enable bad faith and philosophical escape
+Accepting no life after death is a heavy selfless choice
+It faces the spirit of nothingness directly
+
+Nietzsche offers a path where others outline the problem
+The overman is responsibility without borrowed authority
+Not manipulation of rewards and punishments
+The tightrope walker shows the risk
+Failure is likely
+Yet striving is necessary
+
+Forge your purpose
+Refuse templates
+It is a hard path
+It is selfless
+It affirms life
+
+First Meeting
+
+I saw you with Shostakovich
+You told him a dark secret
+What can you tell me
+It is best we meet
+
+Why Don’t We All
+
+The first time I held your hand
+I felt like a child spun in a circle
+You were the sage
+Marking the border between joy and self destruction
+Fire is the substance
+I want it in abundance
+
+Rebellious Youth
+
+It is summer and I am home
+I landed a research job at the university
+I can see you twice a week
+
+Leaning on the hood of the car
+You feel like a breath from an inhaler
+You sound like strawberry fields forever
+Let us drive
+
+Right Off the Freeway
+
+Park and step out
+I have not seen you in days
+
+When we hold hands I am with you when you are gone
+I coax you out of your shell so you are softer when it matters
+I find better ways to get the most out of you
+
+I do not need to eat when I know I will see you
+I am not hungry
+You excite me chemically
+
+Making Me Creative
+
+You are the substance
+The sage who shows me my mind
+
+Why do ideas flood when I am speeding
+I do not party much now
+The party is in my head
+Boring sometimes
+A party nevertheless
+Shining with other clairvoyants is cool
+
+Passive Meditations
+
+The Bhagavad Gita is the greatest book on detachment
+Detachment is cool so long as I am not detached from you my love
+That I cannot accept
+
+Twice a week is little
+It is burdensome
+I will see you briefly before the gym
+
+Fear for the body harms the soul
+One must suffer
+I choose my body
+
+Quiet Vows
+
+It is silly to broadcast our love
+I like it when it is just us
+
+I can anthropomorphize you as I like
+Cerebrotonia or somatonia
+What is the catch
+
+Is existence so precious that I cast away enjoyment for the sake of existence alone
+
+Against the Wind
+
+How do we hold hands and move with the wind when the wind grows harsh
+You are not an indoor person
+
+Maybe if I loop a summer interlude it will work
+But I already milked your love through the fall
+Winter came suddenly
+I cannot do this every year
+
+April Is the Cruelest Month
+
+The weather warms
+The air thickens
+My skin glistens
+Of course I care for another
+
+The earth blooms again
+The cycle restarts
+Just like the first time
+
+Bacchanal Doors
+
+The flow of unbridled passions lives in these doors
+Pay for your ecstasy
+It was not fun in the moment
+Reflection breeds fondness
+
+It is not like you never tried
+Look back and say I tried
+
+Bloodlust and violent leanings live here
+A portal to the bacchanal without end
+The gods reach hysteria through laughter
+We swarm like particles toward the unknown
+
+Light Beams and Symmetry
+
+Beams harden into symmetry
+I stare as I drive past lights
+Double aspect theory says my soul is on these streets
+My body is far removed
+Lines penetrate both eyelids
+I cannot look away
+
+Broken Textures
+
+In a land of broken textures I leave to live
+Wandering the barren streets
+Cooking an appetite for self destruction
+
+What are you hungry for mate
+He opens a comically large coat
+Black out
+
+I wake near noon
+Seeking transcendence in old texts
+
+Chasm of Fantasy
+
+Death is in my pocket
+Worms eat through the fabric
+Boots stomp the sludge
+I feel elemental
+
+Quantum Confinement
+
+Sit there so I can look into your eyes
+This moment is ours
+
+We were blasted from the electron gun
+Now we sit in a world of probabilities
+Overwhelming
+
+Our interference cannot be decoupled
+
+Vulgar Nocturne
+
+The sun sets with your blinds open
+The end of burning desperation
+
+Another glass of water
+Conversations with yourself
+
+Motivation peaks as the day dies
+Summer will end
+Another winter to harness potential
+
+What will we make of today
+Dreams live in the land of tomorrow
+And tomorrow never knows
+
+Birds Don’t Dream of Stars
+
+It is bleak to be confined to the ground
+There is more above us
+
+I think it should be pronounced grave ity
+Because of the grave nature of it all
+
+Mental Soup
+
+Ideas cook each day
+In a viscous concoction
+
+What a privilege
+To receive such violence
+
+Disinformation and entertainment
+Butter and toast
+
+Nausea
+
+A blood curdling longing
+Falling for a while
+Head throbbing
+
+One day you will enter the land where you belong
+
+Clairvoyance
+
+The upsetting dream stalks the night
+The day carries its baggage
+
+This is a march toward the cracked door of fate
+Cue the marching band
+
+An aerial view of the city clarifies it
+Another Faustian hominid unfazed by ambition
+Onward and upward to the stars
+
+Half-Mad Sadistic Magician
+
+In the basement of the institute
+Machines of loving grace oscillate
+
+The fear of effort is the fear of knowing
+A tug of war with death
+Hope is the rope
+
+Markov Chains Time and The Robotic State
+
+Mathematicians assume Markov chains remain hidden
+Consider Hilbert spaces and relativity abstractly
+Reconsider the infinitesimally close situation of a robot’s motion
+The seconds that doctor human time may not suit the robot model
+
+Step into the robotic state
+It is a world of mathematics and philosophy
+
+Markov models predict the future using present and past values
+If the past repeats and remains pertinent
+The robot stagnates
+Flux between states that do not move it toward or away from its goal
+
+Lead a horse to water
+It may not drink
+The horse must like you
+
+To dissect this agenda we meet at the intersection of probability and differential equations
+We test the Gaussian and its limits
+
+Glossary
+Markov process — a stochastic process deciding a sequence of events
+Gaussian distribution — a continuous probability distribution
+Stochasticity — randomness as nature
+Determinism — events by fate
+Bayesianism — events by probability
+
+With stochasticity at the core of hidden models and determinism a strong view
+We must choose whether to starve or flood neural networks with data
+Accept waiting as a side effect
+Keep morale with mid scale performance
+Or gamble and risk burnout chasing uncertain scaling
+
+The Gaussian assumes symmetry around a mean
+When assumptions shift
+Frequency and intensity warp
+Processing time delays or does not
+Cause and effect bend across perspectives
+
+Non standard distributions remind us
+The model and the world are not always in sync
+
+The debate is not binary
+It reflects temperament and worldview
+As a wise voice said
+I am a Bayesian until further notice
