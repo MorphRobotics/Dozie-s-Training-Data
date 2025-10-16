@@ -1,0 +1,767 @@
+Continuum Robot Monologue: Sensors as Alchemy
+Something massive is happening at the microscale. Micromanipulation of tissues promises pathways
+to curing myriad bodily abnormalities. Yet the question persists: why is magnetic actuation
+uniquely suited to this domain?
+Magnetism stands as a fundamental force of nature, one that demands no external batteries or
+power systems when permanent magnets are employed. An untethered, wireless microrobot paired
+with an autonomous actuation source becomes essential when modeling systems with elegance.
+Field planning reduces to a function of two Jacobian workspaces, dramatically simplifying the
+computational burden.
+This simplicity welcomes a richer complexity when electronics are embedded within the design of the untethered microrobot itself. Consider a wireless passive LC sensor that broadcasts its resonance frequency for signal processing, such a device introduces additional layers of modeling, fabrication, and characterization. The central question emerges: how does this research address the grander vision? In the grander vision, soft, carbon-based systems (the human body) merges with hard, silicon-based systems (elec-tronics). Learning to embed computerized functionality within soft systems resembles breathing life into the inanimate, a sort of modern alchemy.
+Vector network analyzers and impedance analyzers sense LC circuit resonance, processing signals to extract meaningful parameters. Once extracted and calibrated, these parameters can be visualized in real time through straightforward programming. Imagine a magnetic continuum robot navigating the lungs: force or vibration data could guide its subsequent movements. The continuum robot and robotic manipulator would then become a magnetic autonomous navigation system through their sensing apparatus. Previously limited to reactive behavior, the robot can now process information and be proactive.
+This alchemy of animating the inanimate has long captivated me. I now pursue this fascination through embedded sensors in magnetic polymers and magnetic navigation systems. Sensors embedded in polymers could revolutionize biosensing, pollution mitigation, and thermal management.
+When inert rubbers are infused with magnetic nanoparticles, they acquire a primitive agency. When subsequently embedded with sensors, they gain a voice, the capacity to communicate their subjective experience of the environment. This is not panpsychism; this is engineering reality. Sensors are the alchemical key to material transmutation.
+It is for this reason that the robotic revolution will prove far more transformative than our current AI revolution. There is no rational basis for performing tasks that another accessible entity executes more effectively. This raises a critical question: when should we cease mining our biological minds as resources and begin leveraging artificial minds instead? This question grows urgent as habits crystallize rapidly and underutilized faculties atrophy. Surgeons who rely on robotic methods without maintaining manual practice will eventually lose the ability to operate without technological assistance. Human thriving has brought about the transcendence of the need to even thrive in the first place, and it leaves us floating in a liminal space.
+
+Chiaroscuro
+By Dozie Ubosi
+
+Horridas nostrae mentis purga tenebras, accende lumin sensibus!
+(Purge the horrible darkness of our mind, light a light for our senses!)
+
+A poem called ‘In the Shadow of You’
+
+You shine like a star
+Effortlessly so
+In a life lived for love
+We can’t say that everything goes
+Unable to hide the discomfort
+Of being sad and alone
+Leave all wonder behind
+And take a better approach
+
+1. Greater things depend on lesser things, and these on
+
+lesser things still
+Walking into the abandoned monastery
+I see a manuscript that seems awfully old
+
+It belonged to an alchemist from the 18th century, he used to be a physicist
+Academic aspirations turned into a life of hermeticism and chasing the occult, seems sad.
+
+The manuscript details how he can bind human souls.
+
+2. Geometrical Truth
+The manuscript contains a lot of hypnotic mandala
+
+I sink into a trance
+
+The limitations of language becomes clear, I finally understand Wittgenstein
+Ancient secrets become exposed to me through these images.
+
+I begin to see images of a girl, a succubi
+
+It’s a familiar face
+
+3. Things are either concrete or abstract
+I lived an entire lifetime while in the hypnotic trance
+Living an entire lifetime with the succubi as my partner
+We lived like hermits in nature cut off from society, in Clarens, Switzerland
+Sounds of Gymnopedie No. 1 emanate from somewhere deep in my psyche
+
+Falling deeper in love
+
+My unconscious mind is at the forefront now
+
+4. Pre established harmony
+I awake from a hypnotic trance
+Seeing real life with a new set of eyes
+Images of another lifetime haunt my waking existence
+I try to find the mandala so I can return to the dream life
+
+But it is gone and Gymnopedie No. 1 is replaced with Schoenberg atonality and screeching
+
+violins
+I still feel the love
+
+5. The origin of evil
+I left the monastery
+I live every second in fantasy
+
+BUT there’s a difference between imagination and fantasy
+Ancient symbols have been replaced with contemporary dionysian images
+If I can experience a lifetime in my brain, that must be proof of the supernatural
+My psychiatrist said there are two reasons people do drugs: Chasing pleasure or running
+
+from pain.
+
+6. The human mind can and should doubt everything except
+
+that it thinks
+
+I need to find a way to expose myself to the animal impulses of my unconscious
+
+I had a dream I was a werewolf running through a field
+I felt the region of my brain responsible for peace suddenly unlock
+You glide through the air so much faster on all fours
+
+It is ineffable
+
+7. The present is pregnant with the future
+The past, present and future exist simultaneously
+Sometimes when I think of my life so far and all my experiences
+
+They are all just an intangible memory
+The triviality is so striking at times
+
+8. In nature opposites seek one another
+In nature opposites seek one another
+
+Jung says “Although man and woman unite they nevertheless represent irreconcilable
+opposites which when activated, degenerate into deadly hostility.”
+I still believe being in love is the best elation attainable
+
+Maybe when you love someone enough you can see past the irreconcilable opposites
+
+In order to avoid the deadly hostility
+
+9. Chiaroscuro
+
+Apollo and Dionysus represent two sides of a coin
+Just like Hermes and Aphrodite
+The same as you and I
+
+The visions from the manuscript haven’t left me
+
+They’re just drowning with all my other experiences
+
+Never Trust Anyone Who Listens to
+
+Nocturnes in the Morning
+
+By Dozie Ubosi
+
+Contents
+
+1. Never Trust Anyone Who Listens to Nocturnes in the Morning
+2. I Think It’s Because I Love You
+3. Tesla’s a Freak
+4. Have you Heard of Voltaire
+5. Trust me I Can Explain it To You
+6. A Quote About the Devil Making Surfaces by Wolfgang Pauli
+7. All a Boy Wants is a Working Machine
+8. Professor Hypnosis
+9. Dark Academia
+10. Misogyny
+11. NOCTURNES
+12. Toronto Symphony Orchestra in the Winter
+13. Solo Hikes
+14. Handel’s Messiah or Mozart’s Requiem
+15. Arrested for Chasing the Green Light
+16. How do you think Legends are Made?
+17. We’re Minimalists Aren’t we?
+18. Can we Atleast Embrace Surrealism?
+19. Your Texts Have Me Stressing!
+20. Frogs are Friendly Neutral
+21. Trace the Sinusoids
+22. Nowhere Near You I’m Sure About That
+
+1
+
+Never Trust Anyone Who Listens to
+
+Nocturnes in the Morning
+
+The nocturnes were my morning and night and this turned me nocturnal.
+Nocturnes are made to invoke the feeling of the night, thus listening to them in the morning
+is unnatural but I did this anyway because the melodies were just so relaxing
+I guess I’m obsessed with the feeling of nighttime
+Fast forward a couple of months of listening to nocturnes non stop morning, afternoon and
+night, I’m unable to sleep
+I am nocturnal
+Oftentimes it’s hard to see the consequences of your indulgences right off the bat but
+everything sweet has a hidden bitter side
+Now I only listen to nocturnes at night.
+
+2
+
+I Think It’s Because I Love You
+
+It seems like I’m the one making the decisions but I’m just reacting to everything you do
+I think it’s because I love you
+“How can you love me when you don’t know anything about me?”
+I don’t know, it can’t be explained. It’s quantum physics or something
+Where are you? I’ll pick you up and explain everything!
+“Nowhere near you, I’m sure about that”
+Einstein’s not a genius, he’s a violinist
+
+3
+
+Tesla’s a Freak
+
+An unhealthy obsession with completion is my problem
+If I start something, I have to finish it
+I think this has helped me escape the perils of nature
+Nikola Tesla finished reading all of Voltaire though
+Even I’m not that obsessed with completion
+Who knew my obsession with completion would lead me to the greatest joy of my life
+I will never be afraid to go too far again
+
+4
+
+Have You Heard of Voltaire
+Taylor Swift is basically the Albert Einstein, Erwin Schrodinger, David Hilbert and Nikola
+Tesla of our day!
+“Wait, so Tesla and Taylor Swif...”
+I can explain it to you, don’t worry!
+Where are you? I’ll pick you up!
+Nowhere near you I’m sure about that
+A Physics Professor walks out of her office, holds a BAG of chocolates open in front of me
+There’s different colours in there
+I close my eyes and pick one
+It’s a purple one
+My first psychedelic
+
+5
+
+Trust me I can Explain it to You
+I always swear I can prove the theorems I blabber
+But it only makes sense in my head
+Pythagorean theorem also seems easy to prove
+But the proof isn’t so straight forward
+Intuition always beats rigour
+But rigour validates the idea
+Trust me I can explain it to you
+
+6
+
+A Quote About the Devil Making
+Surfaces By Wolfgang Pauli
+
+On the first day of class I found out my teacher was a Python
+He goes “I am a Bayesian”
+He then goes “And now time for something completely new... as they say”
+Then I realised, that’s a terrible attempt at a Monty Python joke
+I waited after class to talk to him
+It’s “now time for something completely different” not “completely new” I said
+He was holding in his laugh so hard, I saw a vein on his forehead
+I asked who’s your favourite member, he goes “Michael Palin”
+Mine’s Eric Idle
+Have you seen the Architect’s Sketch, I asked
+“No” he said
+And at that moment, I knew he was a freemason
+
+7
+
+All a Boy Wants is a Working Machine
+I never had a working machine until last year
+I had to take on a leadership role to build one
+Being a leader is hard and uncomfortable
+But it’s rewarding at the end
+I finally built a working machine
+It even had a fail safe
+
+8
+
+Professor Hypnosis
+
+If you think of your brain as a signal processor
+Schizophrenia is simply a glitch in the computer
+“Sir I’ve been looking forward to this signal processing class since first year”
+Basically I’m telling the Professor I’m a Skitzo
+He said “Avoid Aliasing”
+
+9
+
+Dark Academia
+
+I’m certainly a dead poet
+Stomping on table tops
+Captain my captain
+I’m looking at a Kurt Schwitters painting
+And I’m scared to death
+I hate all this decadent art
+That’s why they censored Baudelaire
+
+10
+Misogyny
+
+If Picasso was a known misogynist
+And Stravinsky’s rite of spring is about a virgin being sacrificed to the gods
+Do I have to pay the price for the misogyny of the past
+The trailblazers were misogynists
+What separates my genius from theirs?
+
+11
+
+NOCTURNES
+
+You’re the last person I think about before I fall asleep
+I imagined our whole lives together
+But here I am
+A lifetime away from you
+My hands are buried inside the soil
+Inside of my soul
+My love wears forbidden colours
+
+12
+
+Toronto Symphony Orchestra In the
+
+Winter
+
+I’ve never experienced something so beautiful
+You’re the exception of course
+Seeing all these stochastic events line up perfectly is nothing short of a miracle
+I met the love of my life through random events that I somehow controlled
+Slicing up time is a science
+It’s an art like anything else
+
+13
+Solo Hikes
+
+I had my first daydream about you in a trail
+It all happened so randomly
+One day in November, I decided to wake up to watch the sunrise
+It was so cold
+The thought of you kept me warm
+Almost as though you were physically there
+
+14
+
+Handel’s Messiah or Mozart’s Requiem
+You might go to Messiah?
+Well I got you tickets for the Requiem if you change your mind
+Count your dollars on the train
+It’ll be a party
+I can’t accept a penny for my thoughts
+My thoughts are worth millions
+
+15
+
+Arrested for Chasing the Green Light
+Left my house early this morning
+Stopped at the Metro to buy some scones
+I hiked all day
+I guess because I didn’t sleep for days before, I was hallucinating
+I offered a taxi driver scones to drive me to the airport
+He said I needed cash
+I found a building with a green light
+Green is my favourite colour
+I trespass into it
+I sign into the building as Kento Masuda
+The cops are called
+I’m taken into their custody
+But they don’t take me to the police station
+They take me to the hospital
+One of the cops calls me brilliant for some reason
+
+16
+
+How Do You Think Legends Are
+
+Made?
+
+I choose to maximise my youth
+The fact that I believe in something
+Doesn’t mean it exists
+Why would I shift my focus to the supernatural
+As though this life is not everything I have
+There are joys and dangers associated with this way of thought
+But my uncle told me there’s risk in everything
+Even armed robbers take risks
+I think I found my kung fu
+
+17
+
+We’re Minimalists Aren’t We
+
+Watching reruns
+Wearing old clothes
+Little to no furniture
+We’re minimalists aren’t we?
+
+18
+
+Can We Atleast Embrace Surrealism?
+
+The pursuit of pleasure is paramount
+Because pleasure feels good
+And I like to feel good
+Who the hell wouldn’t
+Find something you love, and then push
+Push as hard as you can
+Push the door open and discover
+Through discovery, you can create
+
+19
+
+Your Texts Have Me Stressing!
+
+Let’s do a rendezvous pre rendezvous
+I’ll pick you up in some sweater and button up drip
+It doesn’t make sense on the surface
+But it’s most abstract for me
+Words can have a deeper meaning
+I guess that’s why they censored Baudelaire
+
+20
+
+Frogs are Friendly Neutral
+
+I saw a gross repulsive frog on my hike today
+It made me think of you
+It can’t be explained
+It takes a genius to understand that it can’t be explained
+It just has to be felt
+I have to do it when and how I feel like doing it
+Candles only burn for so long
+And I do not choose when my fire dwindles
+
+21
+
+Trace the Sinusoids
+
+If you trace the sinusoids
+You will find no beginning
+And you will find no end
+You will only find a fragment of a gargantuan fractal
+Patterns are not illusions
+Determinism is law
+But Stochasticity is the limit of perception
+
+22
+
+Nowhere Near You I’m Sure About
+
+That
+
+I listen to certain songs to feel the feeling of falling in love again
+They are the closest I might ever get to the feeling
+Songs like:
+Erik Satie’s Gymnopedie #1
+Sergei Rachmaninoff’s Piano Concerto #2 in C minor, Op 18: 2. Adagio sostenuto
+Claude Debussy’s Claire de Lune
+They all make me feel very close to the warmth love provides
+
+Have you ever had a dream that felt like it made no sense? Well just because the meaning is out of your reach, doesn’t mean it has no meaning. In this paper I am going to prove that all dreams have a one-to-one linear relationship with reality but are represented in a more densely randomized topological space. The idea of using time evolution and infinitesimal generators to explain the connection between two spaces X and X1 , can indeed be generalized to provide a theoretical framework for understanding how dreams can have some basis.
+
+Reality as a Hilbert Space: Let us treat reality as a structured space X. In this space, real
+events and perceptions are represented as elements or states. These could include physical
+experiences, memories, sensory inputs and cognitive processes.
+
+Dreams as a Homeomorphic Space X1: Dreams can be thought of as residing in another
+space X1 which is homeomorphic to reality. The idea is that dreams are not disconnected from
+reality but rather transformations or projections of real experiences. There’s an underlying
+connection between the two spaces where dreams are related to reality in some distorted or altered form.
+
+Infinitesimal Generators as Cognitive Processes: Something called an infinitesimal
+generator A generates the transformation between X and X1, cognitive processes, including
+memory, imagination, and subconscious associations, generate the transformation from reality to
+dreams. These processes might “evolve” over time or undergo continuous change, generating
+dreams as modified reflections of reality.
+
+Homeomorphism Between Dreams and Reality
+In this model, dreams and reality are topologically similar, meaning that the structure of reality provides the foundation for the structure of dreams, even though dreams may distort or recombine elements of reality.
+Continuity and Cognitive Evolution
+The continuity of the transformation T(t) reflects that dreams are not random but systematically related to reality. Cognitive evolution and subconscious processes continuously map reality into dreams, following rules such as: emotional weighting, recombination of memories, and symbolic transformations.
+Conclusion
+Using the mathematical concept of infinitesimal generators and homeomorphisms, we can generalize the
+idea that dreams have a basis in reality. Dreams are not random, disconnected phenomena, but rather:
+• Transformations of real experiences through subconscious processes,
+• Governed by infinitesimal changes in cognitive evolution, and
+• Continuously linked to reality via a homeomorphic relationship
+
+In this framework, dreams can be thought of as reflections or projections of reality, altered internal processes but fundamentally rooted in the structure of real experiences.
+Thus, just as a homeomorphism preserves the structure between two spaces, dreams preserve a structural connection to reality, through a transformed and often denser and more symbolic topological form
+
+I sit in my dark room as the cold from outside slowly fills it. Information and meaning
+aren’t necessarily related. Often, the more information there is, the less meaning there
+is. This leads to the thought of attention. Attention yields meaning but there can be little
+to no attention if the amount of information is astronomical.
+I want to explore the idea of mental states connected by context through relay networks.
+If attention is the relay that turns information into meaning, then when people talk then
+they are phase aligning through shared contexts. Let’s model how minds, interact
+through a channel that preserves and filters energy at different recurrences. What
+matters is not what they send, but how their coherences interfere in a shared field.
+
+In a world saturated with data, meaning doesn’t arise from information alone but from
+the scarce relay of attention. By framing mental states as spectral profiles filtered and
+recombined through shared contexts, we see that individuals are not isolated minds but
+oscillators in a larger field. When two or more profiles meet through a relay, the
+interference pattern they produce cannot be decomposed into personal
+contributions. The latent trace is irreducibly joint. This inseparability points towards
+the world itself clustering us into energy domains that shape capacity for resonance.
+
+Attention acts as the scarce switch that transforms streams of data into co-
+herence, binding individuals into temporary fields of resonance. Earlier, we considered this dynamic in an example for two agents, where mental states are modeled as oscillatory signals filtered through a common channel, producing interference patterns that could not be reduced to isolated contributions The thing is, real interactions seldom occur in pairs. They unfold in groups, platforms,and systems where many signals collide, reinforce, or cancel across interactive systems. The mathematics of two-person coherence therefore generalizes into an
+N-agent setting where collective fields arise from the superposition of multiple oscillators, each with their own spectral profile. In this extension, cross spectral matrices, coherence graphs, and latent inseparability reveal how interactive systems cluster participants into domains of resonance. The joint traces of these encounters are collective.
+
+By extending the relay model from dyads to N agents, we reveal that coherence
+is not a property of individuals alone but of fields that emerge when many
+oscillators are coupled through a shared relay. The mathematics shows that
+interference terms, cross-spectral densities, and latent projections are irreducibly
+joint: they cannot be decomposed into isolated contributions. In practice, this
+inseparability is what gives rise to collective surges, cancellations, and clusters
+of resonance.
+Interactive systems such as social platforms, collaborative technologies, and
+human–AI collectives are not neutral carriers of information. They act as relays
+that filter, amplify, and suppress frequencies, shaping the interference patterns
+that determine which communities form, which meanings endure, and which
+voices vanish into noise. Attention, the scarce resource that transforms infor-
+mation into meaning, is redistributed and sculpted by these systems, making
+them active participants in the clustering of human experience.
+Seen this way, interactive systems are not just tools but fields of coherence.
+Their design determines the stability of communities, the fairness of resonance,
+and the balance between synchrony and fragmentation. To understand and
+design them is to acknowledge that meaning, identity, and agency emerge not
+from isolated signals but from the inseparable traces left in the shared field of
+interaction.
+Speculatively, such systems may become the most powerful shapers of collec-
+tive life. They can collapse into echo chambers where interference locks groups
+into rigid synchrony, or they can serve as relays that open entirely new domains
+of resonance, enabling novel forms of thought and community. The direction
+depends on how we tune the relays, and whether we design for amplification of
+shared attention or for cultivation of diverse and constructive interference.
+
+Living forever is an enticing promise, I mean who would not want to? It is why vampires
+have the place they occupy in culture. One lifetime is hardly enough to experience
+everything we want to and quite frankly, some need the promise that all their heart’s desires
+will be granted if not in this life, then the next. Latching on to this promise is what keeps
+many people in organized religion.
+Wanting to live forever is simply the penultimate expression of greed albeit masked as
+good. Like a wolf in sheep’s clothing. The reason is, most people can not imagine what that
+other world would look like, it takes on the form of something resembling life on earth due
+to the inability of the mind to picture anything beyond the state of affairs of Earth. It’s why
+we can’t picture the fourth dimension and so on. The idea of eternal life is a concept in the
+collective mind as an extension of life on Earth.
+Being promised eternal life in exchange for your behavior on earth is not different from
+Doctor Faust being promised worldly knowledge and power in exchange for serving
+Mephistopheles forever. It is simply just inverted. For Faust, his reward is on earth and for
+religious people, their reward is in ‘heaven’. Either way, your actions will be the currency. Is
+this not starting to sound like a classic economic word problem that can be expressed in a
+payoff matrix of game theory? In fact, this exists, and it is Pascal’s wager. The same
+formulation of Pascal’s wager can be created for Doctor Faust. Now, the all-important
+question is, should an entire existence be based on an economic game? While neither
+Pascal’s wager or the Faustian bargain is a zero-sum game, one is still leveraging their
+individual reason and strategical inclinations to get the reward which they most desire. And
+most desires are driven by greed.
+Now I want to explore religion as the reason for Sartre’s bad faith, Camus’ philosophical
+suicide, and why most people are not Nietzsche’s Übermensch. To accept there’s no life
+after death is a heavy decision. But I can comfortably say that this decision is the only one
+that is not driven by some kind of greed. Maybe one may appear more secular/intellectual
+by spouting atheism but on a deeper level, it is a selfless choice. Why else would anyone
+endure all the existential darkness and uncertainty that comes with it? One is immediately
+confronted by the overbearing Geist of nothingness. Nietzsche offers a solution to this,
+whereas Sartre and Camus mostly just expand on the problem. Sartre’s bad faith and
+Camus’ philosophical suicide are the problems and the Übermensch is the solution. If one
+reads Thus Spoke Zarathustra and doesn’t have a crisis of faith, they have not understood
+it.
+The fact that Nietzsche went mad in his later years somewhat affirms my view that he was
+indeed touched by some cosmic force.
+‘After all, when the divine reaches down to touch the Earth, it is not a happy meeting of
+opposites, a joyous union between matter and spirit. It is rape. A violent begetting. A
+sudden invasion, a violence that must be later purified by sacrifice.’ – Benjamín Labatut
+Nietzsche sacrificed his mind and purified readers with a clear view of themselves. I am not
+here to echo Nietzsche’s profound meditations. My point is, becoming an Übermensch
+does not involve strategic manipulations of rewards and punishments. It involves taking full
+responsibility for the life you live on Earth and not putting the weight of your decisions
+(good or bad) on other sources. It involves not being quick to judge certain things as evil but
+human which is difficult.
+The tightrope walker at the start of Thus Spoke Zarathustra symbolizes this problem
+perfectly. The tightrope walker represents the existential tension between the Übermensch
+and its animal nature. It encapsulates the inherent risk in striving to be an Übermensch,
+with failure more likely than success. In the book, the tightrope walker falls and dies. No
+false hope offered here. The tightrope walker signifies the striving human, doing what is
+hard but necessary to evolve.
+The path is not for the faint of heart. It means you have to forge your own purpose in life and
+not accept ready made templates handed out by the dozen. But it is a selfless path and the
+most life-affirming path one could take. It is the path that is not embedded with grains of
+greedy sand.
+
+1. First Meeting
+
+Saw you with Shostakovich
+It looked like you were telling him a dark secret
+I wonder what you can tell me
+I think it’s best we meet
+
+
+2. Why don’t we all?
+
+The first time I held your hand
+It felt like I was a child being spun in a circle
+You were the sage
+Elucidating the border between joy and self destruction
+Fire is the substance
+Need it in over abundance
+
+
+
+
+3. Rebellious Youth
+
+It’s summer and I’ve been home
+But I just landed a research job at Uni
+So, I can see you twice a week
+Leaning on the hood of the car
+You feel like a breath of fresh air from an inhaler
+You sound like Strawberry Fields Forever
+Now let’s drive
+
+
+
+4. Right off the Freeway
+
+Park up, get out
+Haven’t seen you in two days
+Every time we hold hands
+I feel like I’m with you when you’re gone
+I started taking you out of your shell so you can be softer when it matters
+I’m finding better ways to get the most out of you
+I don’t even need to eat when I know I’m seeing you
+I don’t feel hungry
+You excite me chemically
+
+5. Making me Creative
+
+You are the substance
+The sage showing me my mind
+Can I ask why these ideas flood when I’m speeding on the freeway
+Nah man I don’t party much as of late
+I realize the party is in my head. Boring at times though
+A party nevertheless
+Shining with other clairvoyants is cool.
+
+6. Passive Meditations
+
+The Bhagavad Gita
+The greatest book on detachment
+Detachment is cool as long as I’m never detached from you my love.
+That, I cannot accept
+Twice a week is so little, it’s burdensome
+I’ll see you briefly before the gym now
+Fear for the body is harmful to the soul
+One has to suffer and I choose my body.
+
+7. In Private
+It would be silly to broadcast our love to everyone
+I like it when it’s just us
+I can anthropomorphize you as much as I’d like
+Cerebrotonia or Somatonia, either way, what’s the catch?
+Once again, my logic may prevail
+Is existence so precious that I cast away enjoyment of existence for the sake of just
+existence?
+
+8. But the Winter
+
+How can we hold hands and move with the wind when the wind gets harsh and unbearable
+You’re not an indoor person
+Maybe if I listen to ‘Summer’s Over Interlude’ on repeat, this may work
+Shit though, I already milked you for all the love you have through the Fall
+Now winter has come suddenly
+I can’t do this every year
+
+
+
+9. April is the Cruelest Month
+
+The weather gets better
+The air gets hotter
+My skin gets wetter
+Of course I care for another
+The earth is blooming again
+The cycle starts again
+Just like the first time
+
+Bacchantes
+
+The flow of unbridled passions
+Lives in these doors
+Pay for your ecstasy
+Wasn’t fun in the moment
+But reflection breeds the fondness
+It’s not like you never tried
+Look back and say “I tried”
+Bloodlust and violent inclinations
+Live in these doors
+It’s a portal to the seemingly unending Bacchanal
+The gods reach hysteria through laughter
+As we swarm like particles to the unknown
+
+Fissure
+Beams of light turn into unbreakable symmetry
+I’m stuck staring as I drive past these lights
+Double aspect theory indicates that my soul is on these streets
+My body though, is far removed
+The lines are penetrating both my eyelids
+I just can’t look away
+
+Hunger
+
+In a land of broken textures
+I leave it behind to live
+Wandering aimlessly in the barren streets
+Cooking up an appetite for self destruction
+“What’re you hungry for, mate?”
+As he opens up a comically large trench coat
+BLACK OUT
+Woke up around noon, seeking transcendence in these old texts
+
+Chasm of Fantasy
+
+Death is in my pocket
+And worms eat through the fabric
+Stomping through the sludge in these black boots
+Feeling elemental
+
+Quantum Confinement
+
+Sit there, so I can look into your eyes
+This moment belongs to us
+We were blasted from the electron gun
+Now we sit here in a world of probabilities
+So overwhelming
+Our interference pattern cannot be decoupled
+
+Vulgar Nocturne
+
+The sun is setting with your blinds open
+The end of your burning desperation
+Another glass of water and conversations with yourself
+Your motivation is peaking as the day dies
+And soon the summer will be over
+Another winter of harnessing potential
+So what will we make of today?
+All our dreams are in the land of tomorrow
+And tomorrow never knows
+
+Birds Don’t Dream of Stars
+I always found it bleak that we are confined to the ground
+There’s so much more above us
+I think it’s supposed to be pronounced grave-ity
+Because of the grave nature of it all
+
+Mental Soup
+
+These ideas are cooking everyday
+In a viscous concoction
+What a privilege!
+To be on the receiving end of such violence
+Disinformation and entertainment, just like butter and toast!
+
+Nausea
+
+Blood curdling longing
+For a while, you’ve been falling
+Head gets to throbbing
+Just know one day
+You’ll enter the land where you are belonging!
+
+Clairvoyance
+The upsetting dream haunts when night falls
+The day always has its baggage
+This is a military march towards fate’s cracked open door
+Cue the John Philip Sousa
+An aerial view of a city will make this clear
+Another Faustian hominid, unfazed by lofty ambitions
+Onwards and upwards! To the stars my friend!
+
+Half-mad Sadistic Magician
+
+In the basement of the Institute
+Machines of loving grace oscillate
+The fear of effort is simply the fear of knowing
+In a tug of war with death
+And hope is the rope
+
